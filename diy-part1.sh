@@ -12,4 +12,4 @@
 
 # 添加软件包
 git clone https://github.com/Dboykey/luci-app-usb-printer package/luci-app-usb-printer
-git clone https://github.com/gdck/luci-app-cupsd2.3.0 package/luci-app-cupsd
+git clone https://github.com/Gr4ffy/lede-cups package/luci-app-cupsd
